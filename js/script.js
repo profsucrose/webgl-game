@@ -52,7 +52,7 @@ document.addEventListener('keyup', event => {
     keysPressed[key] = false
 })
 
-camera.position.z = 9
+camera.position.z = 10
 camera.position.x = 4.5
 
 // initial static rendering
